@@ -1,0 +1,5 @@
+a=float(input('enter the 1st side '))
+b=float(input('enter the 2nd side '))
+c=float(input('enter the 3rd side '))
+area=0.5*int(a)*int(b)*int(c)
+print(area)
